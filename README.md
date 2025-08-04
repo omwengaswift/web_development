@@ -42,8 +42,9 @@ To view the portfolio:
 ## 📧 Contact
 
 Created by **Omwenga Carson**  
-Email: omwengacarson@example.com  
+Email: omwengaswift@gmail.com 
 LinkedIn: [linkedin.com/in/omwengacarson](https://linkedin.com/in/omwengacarson)
 
 ---
+
 
